@@ -1,0 +1,7 @@
+streamlit==1.12.2
+pandas
+joblib
+sklearn
+numpy
+pillow
+
